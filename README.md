@@ -10,9 +10,7 @@ ___
 - Statut du projet : Fini
     - Version : 1.0
 - Auteurs: 
-    - Yanis Benhagouga  ( linkedin : https://www.linkedin.com/in/yanis-benhagouga-50782120a/ )
-    - Christopher Debray  ( linkedin : https://www.linkedin.com/in/christopher-debray/ )
-    - Jérémy Ly  ( linkedin : https://www.linkedin.com/in/jeremy-ly-dev/ )
+   
 - Objectif (résumé du sujet) :
     - Le but du projet est de créer un site de quiz sous Symfony 5
 - Compétences apprises :
